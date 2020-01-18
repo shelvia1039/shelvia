@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Shelvia
+email: shelvia1039@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  PhD student,
+  deep learning / artificial intelligence researcher,
+  and casual physicist.
+baseurl: ""
+url: "https://shelvia1039.github.io" 
+github_username:  shelvia1039
+
+author:
+  name: Shelvia Wongso
+  email: shelvia1039@gmail.com
+    
+
+logo: /assets/images/shelvia.png
+
+menu:
+  - title:             Home
+    url:               /
+  - title:             About
+    url:               /pages/about/
+  - title:             Archive
+    url:               /pages/archive/
+  - title:             Projects
+    url:               /pages/projects/
+  - title:             Research papers
+    url:               /pages/papers/
+  - title:             Resources
+    url:               /pages/resources/
+
+copyright:             © 2020. All rights reserved.
+
+permalink:             /:categories/:year-:month-:day-:title/
+paginate:              5
+paginate_path:         /page-:num
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+hydejack:
+  post_addons:         [about, newsletter, related, random]
+
+# Build settings
+theme: jekyll-theme-hydejack
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+

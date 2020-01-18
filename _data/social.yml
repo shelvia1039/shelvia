@@ -1,0 +1,16 @@
+email:
+  name: Email
+  icon: icon-mail
+  prepend: 'mailto:'
+instagram:
+  name: Instagram
+  icon: icon-instagram
+  prepend: 'https://instagram.com/'
+twitter:
+  name: Twitter
+  icon: icon-twitter
+  prepend: 'https://twitter.com/'
+github:
+  name: GitHub
+  icon: icon-github
+  prepend: "https://github.com/"
