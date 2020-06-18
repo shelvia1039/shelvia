@@ -24,9 +24,9 @@ title:                 Shelvia
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  PhD student,
-  deep learning / artificial intelligence researcher,
-  and casual physicist.
+  PhD student, <br>
+  Artificial Intelligence researcher, <br>
+  Amateur physicist.
 
 # A shorter description for the sidebar.
 tagline:               >
