@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mid-year Update
+categories: [plan]
+tags: [phd, research]
 image: /assets/blogs/i_can_do_it.jpg
 description: >
   When things didn't go as you planned, don't be let down. Make new plans. The sun doesn't stop shining just because of dark clouds.
