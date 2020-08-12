@@ -4,8 +4,8 @@ title:  List of research papers summarized
 ---
 
 **Novel machine learning classifiers**
-- Your classifier is secretly an energy based model and you should treat it like one <br>
-    [Paper](https://arxiv.org/pdf/1912.03263.pdf)  |  [Summary](https://medium.com/@shelviawongso/energy-based-classifier-446c4d4d1e6f)
+- Your classifier is secretly an energy based model and you should treat it like one
+    ([Paper](https://arxiv.org/pdf/1912.03263.pdf)  |  [Summary](https://medium.com/@shelviawongso/energy-based-classifier-446c4d4d1e6f))
 
 **On the theory of generalization**
 - Uniform convergence may be unable to explain generalization in deep learning <br>
