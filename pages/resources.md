@@ -1,7 +1,4 @@
 ---
 layout: page
-title:  List of resources
+title:  List of notes
 ---
-
-**AI Career**
-- [Workera report on "AI Career Pathways"](https://t.co/ZTfx3zWxfZ?amp=1)
