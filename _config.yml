@@ -58,8 +58,8 @@ menu:
     url:               /pages/projects/
   - title:             Research papers
     url:               /pages/papers/
-  - title:             Resources
-    url:               /pages/resources/
+  - title:             Notes
+    url:               /pages/notes/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
