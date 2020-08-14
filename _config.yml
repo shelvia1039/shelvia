@@ -229,11 +229,11 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:name/
+    permalink:         {{site.baseurl}}/:name/
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         {{site.baseurl}}/tag-:name/
     output:            true
 
 
