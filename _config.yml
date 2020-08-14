@@ -229,11 +229,11 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         {{site.baseurl}}/:name/
+    permalink:         shelvia/:name/
     output:            true
 
   featured_tags:
-    permalink:         {{site.baseurl}}/tag-:name/
+    permalink:         shelvia/tag-:name/
     output:            true
 
 
