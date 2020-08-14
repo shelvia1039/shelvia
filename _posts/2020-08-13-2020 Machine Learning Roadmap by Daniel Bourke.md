@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 Machine Learning Roadmap
-tags: [machine-learning, resources]
+categories: [resources]
 image: /assets/blogs/roadmap.png
 description: >
   A roadmap to help machine learning beginners head towards the right direction.
