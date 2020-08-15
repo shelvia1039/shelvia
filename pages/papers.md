@@ -12,9 +12,9 @@ title:  List of research papers summarized
     [Paper](https://arxiv.org/pdf/1902.04742.pdf)  |  [Summary](https://medium.com/@shelviawongso/generalization-97338df3df5b)
 - Understanding deep learning requires rethinking generalization <br>
     [Paper](https://arxiv.org/pdf/1611.03530.pdf)  |  [Summary](https://medium.com/@shelviawongso/the-need-to-rethink-generalization-to-understand-deep-learning-5cd9e5a2634e)
-- Traditional and heavy-tailed self regularization in neural network models <br>
-    [Paper](https://arxiv.org/pdf/1901.08276.pdf)  |  [Summary]()
+<!-- - Traditional and heavy-tailed self regularization in neural network models <br>
+    [Paper](https://arxiv.org/pdf/1901.08276.pdf)  |  [Summary]() -->
 
-**On pruning the neural networks**
+<!-- **On pruning the neural networks**
 - The lottery ticket hypothesis: finding sparse, trainable neural networks <br>
-    [Paper](https://arxiv.org/pdf/1803.03635.pdf)  |  [Summary]()
+    [Paper](https://arxiv.org/pdf/1803.03635.pdf)  |  [Summary]() -->
