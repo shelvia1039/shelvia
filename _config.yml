@@ -6,6 +6,8 @@
 # (unless you are using a custom domain).
 url:                   https://shelvia1039.github.io/shelvia
 
+port: 4444
+
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
 # (with leading /, but without the < >).
